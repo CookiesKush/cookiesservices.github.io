@@ -1,6 +1,6 @@
-# Cookies Services Website - [View](http://cookiesservices.xyz)
+# Cookies Services Updated Website - [View](http://cookiesservices.xyz)
 
-<!-- ![unknown](https://user-images.githubusercontent.com/99442285/165781512-cef5560b-f44e-4d7f-b3c0-36cbdaa80f9a.png) -->
+![unknown](https://raw.githubusercontent.com/Callumgm/Cookies-Updated-Website/master/images/Website_Preview.png)
 
 ---
 
