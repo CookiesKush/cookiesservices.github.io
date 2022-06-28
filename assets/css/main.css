@@ -68,8 +68,9 @@ input, select, textarea {
 
 
 .container {
-	display: grid;
-	place-items: center;
+	margin: 0 auto;
+    display: flex;
+    align-items: center;
 }
 
 
@@ -3166,7 +3167,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 5em 0 6em 24.5em ;
+		padding: 5em 0 6em 23em ;
 		background-color: #f6f6f6;
 	}
 
@@ -3231,7 +3232,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#footer {
-				padding: 5em 0 6em 20em ;
+				padding: 5em 0 6em 19em ;
 			}
 
 				#footer > .inner section:nth-child(1) {
@@ -3248,22 +3249,26 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
-			#footer > .inner section:nth-child(1) {
-				width: 66%;
-				margin-right: 0;
+			#footer {
+				padding: 5em 0 6em 12em ;
 			}
 
-			#footer > .inner section:nth-child(2) {
-				width: calc(33% - 2.5em);
-				margin-left: 2.5em;
-			}
+				#footer > .inner section:nth-child(1) {
+					width: 66%;
+					margin-right: 0;
+				}
+
+				#footer > .inner section:nth-child(2) {
+					width: calc(33% - 2.5em);
+					margin-left: 2.5em;
+				}
 
 		}
 
 		@media screen and (max-width: 736px) {
 
 			#footer {
-				padding: 5em 0 6em 15em ;
+				padding: 5em 0 6em 14em ;
 			}
 
 				#footer > .inner {
@@ -3295,6 +3300,10 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 480px) {
+
+			#footer {
+				padding: 5em 0 6em 5.5em ;
+			}
 
 			#footer > .inner .copyright {
 				margin-top: 3em;
