@@ -68,9 +68,11 @@ input, select, textarea {
 
 
 .container {
-	margin: 0 auto;
-    display: flex;
-    align-items: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	place-items: center;
+	text-align: center;
 }
 
 
