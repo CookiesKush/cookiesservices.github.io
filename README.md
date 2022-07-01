@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" >
   <img src="https://img.shields.io/badge/license-MIT-yellow.svg" >
   <img src="https://img.shields.io/github/last-commit/Callumgm/Cookies-Updated-Website">
-  <img src="https://img.shields.io/github/languages/top/Callumgm/Cookies-Updated-Website">
-  <img src="https://img.shields.io/github/languages/count/Callumgm/Cookies-Updated-Website">
   <a href="https://twitter.com/Flashouttt" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Flashouttt.svg?style=social">
   </a>
