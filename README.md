@@ -1,20 +1,23 @@
 <h1 align="center">Welcome to Cookies Services Updated Website 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.2.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/Callumgm/Cookies-Updated-Website/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" />
-  </a>
+
+<p align="center">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=Callumgm_Cookies-Updated-Website&metric=ncloc">
+  <img src="https://img.shields.io/badge/version-1.2.0-blue.svg?cacheSeconds=2592000" >
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" >
+  <img src="https://img.shields.io/badge/license-MIT-yellow.svg" >
+  <img src="https://img.shields.io/github/last-commit/Callumgm/Cookies-Updated-Website">
+  <img src="https://img.shields.io/github/languages/top/Callumgm/Cookies-Updated-Website">
+  <img src="https://img.shields.io/github/languages/count/Callumgm/Cookies-Updated-Website">
   <a href="https://twitter.com/Flashouttt" target="_blank">
-    <img alt="Twitter: Flashouttt" src="https://img.shields.io/twitter/follow/Flashouttt.svg?style=social" />
+    <img src="https://img.shields.io/twitter/follow/Flashouttt.svg?style=social">
   </a>
 </p>
 
 > Personal website for my tools
 
-### ✨ [Preview](http://cookiesservices.xyz/)
+### ✨ Preview
+
+![unknown](https://user-images.githubusercontent.com/99442285/176798322-90f282d5-f1cc-417c-8fbe-b944340cddf6.png)
 
 ## Authors
 
