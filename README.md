@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=Callumgm_Cookies-Updated-Website&metric=ncloc">
-  <img src="https://img.shields.io/badge/version-1.2.0-blue.svg?cacheSeconds=2592000" >
+  <img src="https://img.shields.io/badge/version-1.3.0-blue.svg?cacheSeconds=2592000" >
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" >
   <img src="https://img.shields.io/badge/license-MIT-yellow.svg" >
   <img src="https://img.shields.io/github/last-commit/Callumgm/Cookies-Updated-Website">
@@ -13,13 +13,26 @@
 
 > Personal website for my tools
 
-### ✨ Preview
+### ✨ 〢 Preview
 
 ![unknown](https://user-images.githubusercontent.com/99442285/176798322-90f282d5-f1cc-417c-8fbe-b944340cddf6.png)
 
-## Authors
+## 💭 〢 ChangeLog
 
-👤 **CookiesKush420** <br>
+```diff
+v1.2.0 ⋮ 2022-07-02
++ cleaned up product descriptions
++ added features to most descriptions
+
+v1.2.0 ⋮ 2022-06-30
++ fixed footer & purchase button not centering
+```
+
+
+## 👤 〢 Authors
+
+👤 **CookiesKush420** 
+<br>
 👤 **Posh**
 
 * Website: http://cookiesservices.xyz/
@@ -27,15 +40,15 @@
 * GitHub: [@Callumgm](https://github.com/Callumgm)
 * Discord: [@Posh](https://discord.com/users/870429711619215421)
 
-## 🤝 Contributing
+## 🤝 〢 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Callumgm/Cookies-Updated-Website/issues). 
 
-## Show your support
+## 🌟 〢 Show your support
 
 Give a ⭐️ if this project helped you!
 
-## 📝 License
+## 📝 〢 License
 
 Copyright © 2022 [CookiesKush420](https://github.com/Callumgm).<br />
 This project is [MIT](https://github.com/Callumgm/Cookies-Updated-Website/blob/master/LICENSE) licensed.
