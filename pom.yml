@@ -1,2 +1,0 @@
-- name: fancier-discord-webhooks
-  uses: baked-libs/maven-discord-integration@1.5.1
