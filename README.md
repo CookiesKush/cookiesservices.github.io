@@ -35,13 +35,10 @@ v1.2.0 ⋮ 2022-06-30
 ## 👤 〢 Authors
 
 👤 **CookiesKush420** 
-<br>
-👤 **Posh**
 
 * Website: http://cookiesservices.xyz/
 * Twitter: [@Flashouttt](https://twitter.com/Flashouttt)
 * GitHub: [@Callumgm](https://github.com/Callumgm)
-* Discord: [@Posh](https://discord.com/users/870429711619215421)
 
 ## 🤝 〢 Contributing
 
