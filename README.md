@@ -11,8 +11,6 @@
   </a>
 </p>
 
-> Personal website for my tools
-
 ### ✨ 〢 Preview
 
 ![unknown](https://user-images.githubusercontent.com/99442285/176798322-90f282d5-f1cc-417c-8fbe-b944340cddf6.png)
