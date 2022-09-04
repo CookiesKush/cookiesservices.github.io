@@ -19,7 +19,7 @@
 
 ```diff
 v1.4.0 ⋮ 2022-09-04
-+ cookies services put on hold
+- cookies services put on hold
 
 v1.3.0 ⋮ 2022-07-02
 + cleaned up product descriptions
